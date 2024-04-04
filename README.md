@@ -40,8 +40,8 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
   - [Socratica](https://www.youtube.com/@Socratica)
   - [Crash Course](https://www.youtube.com/@crashcourse)
-  - [MIT OpenCourseWare](https://www.youtube.com/@mitocw) 
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
+  - [MIT OpenCourseWare - Youtube](https://www.youtube.com/@mitocw) 
   - [Open Source Society University (OSSU)](https://github.com/ossu/)
   - [YouTube Channels & Other Resources - GitHub](https://github.com/PrejudiceNeutrino/YouTube_Channels)
   - [YouTube Channels & Other Resources - Reddit](https://www.reddit.com/r/AskScienceDiscussion/comments/sh824m/i_put_together_a_list_of_science_youtube_channels/)
@@ -103,12 +103,21 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
 - Highly Educational - tutorials, courses, etc
   - [Open Source Society Universe (OSSU) - Computer Science](https://github.com/ossu/computer-science)
+  - [In One Lesson - GitHub](https://github.com/In-One-Lesson/VideoScripts)
+  - [In One Lesson - Youtube](https://www.youtube.com/@InOneLesson)
   - [Molly Rocket](https://www.youtube.com/@MollyRocket)
+  - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+  - [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
+  - [NeetCode](https://neetcode.io/)
+  - [NeetCode - Youtube](https://www.youtube.com/@NeetCode)
+  - [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons)
   - [Awesome Computer Science Courses](https://github.com/prakhar1989/awesome-courses)
   - [Learn to Program](https://github.com/karlhorky/learn-to-program)
   - [Computer Science Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 - Entertainement and Educational - Youtube Channels
+  - [IEEEComputerSociety](https://www.youtube.com/@IEEEComputerSociety/)
+  - [Jonathan Blow](https://www.youtube.com/@jblow888)
   - [Computerphile](https://www.youtube.com/@Computerphile)
   - [bycloud](https://www.youtube.com/@bycloudAI) 
   - [pacarana](https://www.youtube.com/@dpacarana)
@@ -210,6 +219,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 - Entertainement and Educational - Youtube Channels
 
   - [Numberphile](https://www.youtube.com/@numberphile)
+  - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 
 
@@ -233,6 +243,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
   - [HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
   - [Lise Leblanc](https://www.youtube.com/@LiseLeblanc)
+  - [Mark Manson](https://www.youtube.com/@IAmMarkManson)
 
 ### How to study and learn
 
@@ -276,6 +287,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 - Entertainement - Youtube Channels
 
   - [Ado](https://www.youtube.com/@Ado1024)
+  - [Manuel Gardner-Fernandes](https://www.youtube.com/@ManuelGardnerFernandes)
   - [Ichika Nito](https://www.youtube.com/@ichika_nito)
   - [Mateus Asato](https://www.youtube.com/@Mautaus)
   - [Tim Henson](https://www.youtube.com/@TimHensonW6RST)

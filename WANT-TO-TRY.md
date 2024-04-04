@@ -74,7 +74,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
 - Highly Educational - tutorials, courses, etc
 
-  - [ ] [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons)
+  - [x] [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons) - Added to Favorite Content
   - [ ] [MIT CSAIL](https://www.youtube.com/@MITCSAIL)
 
 - Entertainement and Educational - Youtube Channels
