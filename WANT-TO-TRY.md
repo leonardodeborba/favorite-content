@@ -2,9 +2,9 @@
 
 This WANT-TO-TRY file contains web content and resources that I haven't personally used but I want to. It's sort of a "to-do list".
 
-You can find the resources that I have already used in the README file.
+You can find the resources that I have already used in the [README](README.md) file.
 
-Some of the resources listed here may fit into more than one category. Using Ctrl + F or Cmd + F can make it easier for you to find what you're looking for.
+Some of the resources listed here may fit into more than one category, using <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> can make it easier for you to find what you're looking for.
 
 
 

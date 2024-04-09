@@ -2,7 +2,7 @@
 
 This README file contains my favorite web content and resources that I have personally been using or have used before. There are other highly recommended and — apparently — great resources available, however I haven't checked them out yet. You can find those resources in the [WANT-TO-TRY](WANT-TO-TRY.md) file.
 
-Some of the resources listed here may fit into more than one category. Using Ctrl + F or Cmd + F can make it easier for you to find what you're looking for.
+Some of the resources listed here may fit into more than one category, using <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> can make it easier for you to find what you're looking for.
 
 
 
