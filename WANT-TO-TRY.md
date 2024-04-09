@@ -1,4 +1,4 @@
-# Web content and resources I want to try.
+# Web content and resources I want to try
 
 This WANT-TO-TRY file contains web content and resources that I haven't personally used but I want to. It's sort of a "to-do list".
 
@@ -75,7 +75,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
 - Highly Educational - tutorials, courses, etc
 
-  - [ ] [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons)
+  - [x] [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons) - Added to Favorite Content
   - [ ] [MIT CSAIL](https://www.youtube.com/@MITCSAIL)
 
 - Entertainement and Educational - Youtube Channels
@@ -165,4 +165,4 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 
 ### Animation
 
-[**Back to top**](#my-favorite-web-content-and-resources)
+[**Back to top**](#web-content-and-resources-i-want-to-try)
