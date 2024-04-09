@@ -43,6 +43,7 @@ Some of the resources listed here may fit into more than one category. Using Ctr
   - [MIT OpenCourseWare](https://www.youtube.com/@mitocw) 
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
   - [Open Source Society University (OSSU)](https://github.com/ossu/)
+  - [Types of documentation - Documentation System](https://documentation.divio.com/)
   - [YouTube Channels & Other Resources - GitHub](https://github.com/PrejudiceNeutrino/YouTube_Channels)
   - [YouTube Channels & Other Resources - Reddit](https://www.reddit.com/r/AskScienceDiscussion/comments/sh824m/i_put_together_a_list_of_science_youtube_channels/)
   - [Curated Lists](https://github.com/learn-anything/curated-lists)
@@ -104,11 +105,14 @@ Some of the resources listed here may fit into more than one category. Using Ctr
 - Highly Educational - tutorials, courses, etc
   - [Open Source Society Universe (OSSU) - Computer Science](https://github.com/ossu/computer-science)
   - [Molly Rocket](https://www.youtube.com/@MollyRocket)
+  - [Ben Eater](https://www.youtube.com/@BenEater)
+  - [Exploring How Computers Work - Sebastian League](https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq)
   - [Awesome Computer Science Courses](https://github.com/prakhar1989/awesome-courses)
   - [Learn to Program](https://github.com/karlhorky/learn-to-program)
   - [Computer Science Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 - Entertainement and Educational - Youtube Channels
+  - [Sebastian League](https://www.youtube.com/@SebastianLague)
   - [Computerphile](https://www.youtube.com/@Computerphile)
   - [bycloud](https://www.youtube.com/@bycloudAI) 
   - [pacarana](https://www.youtube.com/@dpacarana)
