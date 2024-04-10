@@ -293,7 +293,7 @@ Some of the resources listed here may fit into more than one category, using <kb
   - [Ado](https://www.youtube.com/@Ado1024)
   - [Manuel Gardner-Fernandes](https://www.youtube.com/@ManuelGardnerFernandes)
   - [Ichika Nito](https://www.youtube.com/@ichika_nito)
-  - [Mateus Asato](https://www.youtube.com/@Mautaus)
+  - [Mateus Asato](https://www.youtube.com/@MateusAsato)
   - [Tim Henson](https://www.youtube.com/@TimHensonW6RST)
   - [Rick Beato](https://www.youtube.com/@RickBeato)
 
